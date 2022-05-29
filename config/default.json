@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "NARUTO-SASUKE",
+  "baseUrl": "http://localhost:5000/",
+  "mongoUri": "mongodb+srv://darqsaks:1234@mern.7zupkon.mongodb.net/app?retryWrites=true&w=majority"
+}
